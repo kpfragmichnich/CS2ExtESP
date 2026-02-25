@@ -10,9 +10,7 @@
 It demonstrates how to:
 - 📖 Read game memory externally
 - 🧠 Work with entity data structures
-- 🖥️ Render an external overlay
-- 🎨 Integrate ImGui into a project
-- 📍 Manage and update offsets
+- 🌐 Discord Overlay Hijacking
 
 This project can serve as a foundation for learning about external applications interacting with games.
 
@@ -25,6 +23,7 @@ This project can serve as a foundation for learning about external applications 
 - ❤️ Health visualization
 - 🧩 Modular architecture
 - 🛠️ Visual Studio project included
+- 📺 Currently no ImGui
 
 ---
 
