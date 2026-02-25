@@ -14,6 +14,8 @@ It demonstrates how to:
 
 This project can serve as a foundation for learning about external applications interacting with games.
 
+---
+
 ## 🚫 Anti-Cheat Notice
 
 This project does **not** bypass, disable, or evade any anti-cheat system.
