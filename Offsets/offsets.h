@@ -11,7 +11,7 @@
 namespace LunixOffsets {
     
     // --- Globale Pointer (client.dll) ---
-    constexpr std::ptrdiff_t dwEntityList = 0x24AB1C8;           // Die Liste aller Spieler
+    constexpr std::ptrdiff_t dwEntityList = 0x24AB1B8;           // Die Liste aller Spieler
     constexpr std::ptrdiff_t dwLocalPlayerController = 0x22F0188; // Dein eigener Controller
     constexpr std::ptrdiff_t dwViewMatrix = 0x230BEE0;            // Für 3D-zu-2D (ESP Boxen)
     constexpr std::ptrdiff_t dwLocalPlayerPawn = 0x2065AF0;
@@ -32,3 +32,4 @@ namespace LunixOffsets {
     constexpr std::ptrdiff_t m_sSanitizedPlayerName = 0x860;    // CUtlString
     constexpr std::ptrdiff_t m_bIsLocalPlayerController = 0x788; // bool
 }
+
